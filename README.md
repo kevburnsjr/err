@@ -1,4 +1,4 @@
-# RESPECT THE MOONINITES
+# RESPECT THE MOON
 
 [![Go Reference](https://godoc.org/github.com/kevburnsjr/err?status.svg)](https://godoc.org/github.com/kevburnsjr/err)
 
